@@ -1,0 +1,1 @@
+export default function App(){return <div><h1>Enterprise Banking Platform</h1></div>;}
